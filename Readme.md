@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI/ML projects like multilingual NLP systems, fake news detection, and agentic AI research at Woxsen University.<br><br>👯 I’m looking to collaborate on<br>Machine Learning, Deep Learning, NLP, and AI-powered web applications.<br><br>🤝 I’m looking for help with<br>MLOps, model deployment, and scaling ML models to production.<br><br>🌱 I’m currently learning<br>MLOps, Generative AI, Agentic AI systems, and advanced NLP techniques.<br><br>💬 Ask me about<br>Python, Machine Learning, NLP, Scikit-learn, TensorFlow, BERT, mBART, or ML projects.<br><br>⚡ Fun fact<br>I’ve solved 130+ LeetCode problems and still get excited when a model finally converges
+💫 About Me:
+
+🔭 Currently Working On
+AI/ML projects including multilingual NLP systems, fake news detection, and research on agentic AI systems at Woxsen University.
+
+👯 Looking to Collaborate On
+Projects related to Machine Learning, Deep Learning, Natural Language Processing (NLP), and AI-powered web applications.
+
+🤝 Seeking Help With
+MLOps practices, model deployment, and scaling machine learning models for production environments.
+
+🌱 Currently Learning
+MLOps, Generative AI, Agentic AI architectures, and advanced Natural Language Processing techniques.
+
+💬 Ask Me About
+Python, Machine Learning, NLP, Scikit-learn, TensorFlow, BERT, mBART, and AI/ML project development.
+
+⚡ Fun Fact
+I’ve solved 130+ problems on LeetCode and still enjoy the moment when a machine learning model finally converges successfully.
 
 
 ## 🌐 Socials:
