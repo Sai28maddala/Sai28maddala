@@ -1,4 +1,4 @@
-💫 About Me:
+#💫 About Me:
 
 🔭 Currently Working On
 AI/ML projects including multilingual NLP systems, fake news detection, and research on agentic AI systems at Woxsen University.
